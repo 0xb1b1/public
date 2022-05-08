@@ -10,7 +10,7 @@ As an example of the aforementioned issue, I'd like to introduce you to [the MIT
 
 ## I want you to sign my certificate
 First of all, thanks for your token of trust!
-If you are stuck, check out the "Generate new Certificate" section in [my OpenSSL guide](https://github.com/0xb1b1/cheat-sheets/blob/main/networking/ssl/self-signed.md#generate-new-certificate)
+If you are stuck, check out the "Generate new Certificate" section in [my OpenSSL guide](https://github.com/0xb1b1/cheat-sheets/blob/main/networking/ssl/self-signed.md#generate-new-certificate).
 ### Ownership verification
 This is how we verify ownership of your domain:
 1. Generate a Certificate Signing Request for your certificate (CSR)
